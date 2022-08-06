@@ -7,3 +7,5 @@ The goal of the website is to manage your inventory. You can add an order from y
 For the pictures on the sides and for some of the products I used photoshop, and thanks to that I put myself in the project. 
 
 Will you be able to find me ?
+
+Contact: valentin.chaps@gmail.com
